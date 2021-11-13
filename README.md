@@ -1,1 +1,1 @@
-# odin_recipes
+This was a recipe book project. I completed it well, however, I still need help learning how to use git and everything related to that.
