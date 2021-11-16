@@ -1,0 +1,19 @@
+img {
+    height: 300px;
+    width: auto;
+}
+
+#title { 
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+.p {
+    color: orange;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
